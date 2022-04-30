@@ -12,7 +12,7 @@ function App() {
     <div className="App">
       <BrowserRouter>
         <Routes>
-          <Route path="/domiscan-site/home/" element={<Home />} />
+          <Route path="/domiscan-site" element={<Home />} />
           <Route path="/domiscan-site/about" element={<About />} />
           <Route path="/domiscan-site/contact" element={<Contact />} />
           <Route path="/domiscan-site/download" element={<Download />} />

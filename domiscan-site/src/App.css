@@ -1,2 +1,35 @@
 
+/* All */
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-decoration: none;
+}
+
+/* Title component */
+.main-title-box ul {
+    list-style: none;
+    font-size: 20px;
+    display: inline-block;
+    position: relative;
+    text-decoration: none;
+    text-align: center;
+}
+.main-title-box li {
+    text-decoration: none;
+}
+
+.main-title-box {
+    color: white;
+    margin: 27px auto 0;
+    position: relative;
+    width: 450px;
+    height: 60px;
+    background-color: #9b2ba1;
+    border-radius: 8px;
+    font-size: 0;
+}
+
+.main-title-box {
+    color: white;
+}
 
