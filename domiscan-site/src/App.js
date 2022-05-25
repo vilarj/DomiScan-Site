@@ -1,11 +1,10 @@
-
-import './App.css';
+import "./App.css";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
-import About from './Pages/About'
-import Contact from './Pages/Contact'
-import Download from './Pages/Download'
-import Home from './Pages/Home'
-import NoPage from './Pages/NoPage'
+import About from "./Pages/About";
+import Contact from "./Pages/Contact";
+import Download from "./Pages/Download";
+import Home from "./Pages/Home";
+import NoPage from "./Pages/NoPage";
 
 function App() {
   return (
