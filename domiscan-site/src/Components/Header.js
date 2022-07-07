@@ -7,6 +7,11 @@ class Header extends React.Component {
       <div className="main-title-box">
         <ul className="about-box">
           <li>
+            <Link to="../domiscan-site/">Home</Link>
+          </li>
+        </ul>
+        <ul className="about-box">
+          <li>
             <Link to="../domiscan-site/about">About Us</Link>
           </li>
         </ul>
